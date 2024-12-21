@@ -1,1 +1,4 @@
+Salted: 19
+Unsalted: 14
+Peanut Butter: 4
 
