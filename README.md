@@ -14,7 +14,4 @@ Peanut Tracker is a script written in Shell that helps you track peanuts in vari
 
 ## Installation
 
-To install Peanut Tracker, clone the repository and navigate into the directory:
-
-```sh
-git clone https://github.com/invisiblepancake/peanut-tracker.git
+To install Peanut Tracker, clone the repository and navigate into the directory.
